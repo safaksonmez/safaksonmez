@@ -18,7 +18,7 @@ I also have experience leading backend teams, designing microservice architectur
 
 ### 💼 Current Work
 
-**Backend Developer / Technical Lead** at [Dynamic Markets](https://selfservice.dynamicmarkets.com)  
+**Backend Developer / Technical Lead** at Incodi Software Development-[Dynamic Markets](https://selfservice.dynamicmarkets.com)  
 - Built and maintain a self-service trading platform
 - Integrated with MetaTrader 5 (MT5)
 - Using Node.js, Golang, Sequelize, MySQL, Redis, RabbitMQ
