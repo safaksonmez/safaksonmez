@@ -1,56 +1,42 @@
-# 👋 Hi, I'm Şafak Sönmez
+# Hi, I'm Safak Sonmez 👋
 
-**Backend Developer / Technical Lead**  
-📍 Istanbul, Turkey  
-🌐 [www.safaksonmez.com](https://www.safaksonmez.com)  
-📧 info@safaksonmez.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/safaksonmez/) | 🐙 [GitHub](https://github.com/safaksonmez)
+**Senior Backend Engineer / Technical Lead** focused on fintech, high-throughput systems, distributed architectures, and real-time platforms.
 
----
+I build and operate backend systems end-to-end: architecture, API and data design, event-driven integrations, production delivery, Kubernetes operations, and incident troubleshooting.
 
-### 🚀 About Me
+## What I work on
 
-I’m a backend-focused developer with strong experience in building real-time, scalable, and production-grade systems. My core stack is **Node.js**, **Golang**, and **Laravel**, and I love working on fintech platforms, data processing pipelines, and backend infrastructure.
+- **Fintech & trading:** exchange/custody workflows, KYC lifecycle integrations, MT5 gateway/backend flows, account state, balances, withdrawals, and statements
+- **High-throughput systems:** real-time processing, concurrency, streaming, telemetry, and performance optimization
+- **Distributed backends:** event-driven services, messaging, gRPC, WebSockets, MQTT, and multi-tenant systems
+- **Production platforms:** Docker, Kubernetes, Linux, CI/CD, Traefik/Nginx, reliability, and troubleshooting
 
-I also have experience leading backend teams, designing microservice architectures, and deploying systems using **Docker**, **Kubernetes**, and **AWS**.
+## Selected impact
 
----
+- **10,000 trades/sec** - Co-developed a Rust streaming engine for a derivatives platform, designed for high-throughput real-time trade processing
+- **10x throughput** - Migrated telemetry processing from Node.js to Go, improving throughput from ~80 to ~800 records/sec
+- **0 to production** - Designed and built connected-mobility products from greenfield architecture through production delivery
 
-### 💼 Current Work
+## Tech stack
 
-**Backend Developer / Technical Lead** at Incodi Software Development-[Dynamic Markets](https://selfservice.dynamicmarkets.com)  
-- Built and maintain a self-service trading platform
-- Integrated with MetaTrader 5 (MT5)
-- Using Node.js, Golang, Sequelize, MySQL, Redis, RabbitMQ
-- Dockerized deployment with Docker Hub + Kubernetes
+**Backend**  
+C# / .NET · Go · Node.js / TypeScript · Python / Django · Rust · REST · gRPC · WebSockets / Socket.IO
 
----
+**Data & Messaging**  
+PostgreSQL · MSSQL · MongoDB · MySQL · Redis · DynamoDB · RabbitMQ · MQTT
 
-### 🧠 Previously
+**Platform**  
+Docker · Kubernetes · Linux · AWS Lambda / API Gateway · CI/CD · Traefik · Nginx
 
-**Backend Lead** at YukaTech  
-- Led backend for [RouteControl](https://www.routecontrol.de) & [YukaTrack](https://yukatrack.com)  
-- Parsed binary data from Teltonika devices  
-- Real-time location tracking & route visualization  
-- Used Node.js, Golang, MongoDB, Redis, RabbitMQ, gRPC, Socket.IO  
-- Deployed custom Nominatim server
+**Domains**  
+Fintech · Trading · Exchange / Custody · KYC · MT5 · Distributed Systems · Event-Driven Systems · Telemetry
 
----
+## Current focus
 
-### 🔧 Tech Stack
+Building production-grade backend systems where **throughput, reliability, observability, and operational simplicity** matter.
 
-- **Languages:** Node.js, Golang, PHP, Python (Pandas, NumPy), JavaScript
-- **Databases:** MySQL, MongoDB, DynamoDB, Redis
-- **Messaging & Realtime:** RabbitMQ, gRPC, Socket.IO
-- **DevOps & Cloud:** Docker, Docker Hub, Kubernetes, AWS Lambda, API Gateway
+## Connect
 
----
-
-### 🗣️ Languages
-
-- Turkish: Native  
-- English: Fluent
-
----
-
-Thanks for stopping by! Feel free to connect or reach out anytime!
+- Website: [safaksonmez.com](https://safaksonmez.com/tr)
+- LinkedIn: [linkedin.com/in/safaksonmez](https://linkedin.com/in/safaksonmez)
+- Email: [info@safaksonmez.com](mailto:info@safaksonmez.com)
